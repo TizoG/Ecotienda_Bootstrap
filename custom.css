@@ -8,3 +8,15 @@
     height: 288px;
     width: 423;
 }
+
+.bg-orange{
+    background-color: #FF8A00;
+}
+
+.border-color-verde{
+    border-left: 2px solid #84D187;
+}
+
+.color-verde{
+    color: #84D187;
+}
